@@ -1,0 +1,120 @@
+.circle {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    display: inline-block;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #808080;
+}
+
+.i {
+    background-image: url(../img/icon-list.png);
+}
+
+.rounded-rectangle {
+    width: 65px;
+    height: 65px;
+    border-radius: 16%;
+    display: inline-block;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #808080;
+}
+
+
+.i-person {
+    /*background-size: cover;*/
+    background-position-x: 462px;
+    background-position-y: 460px;
+}
+
+.i-phone {
+    /*background-size: cover;*/
+    background-position-x: 344px;
+    background-position-y: 460px;
+}
+
+.i-message {
+    /*background-size: cover;*/
+    background-position-x: 225px;
+    background-position-y: 460px;
+}
+
+.i-clock {
+    /*background-size: cover;*/
+    background-position-x: 106px;
+    background-position-y: 460px;
+}
+
+.i-music {
+    /*background-size: cover;*/
+    background-position-x: 460px;
+    background-position-y: 342px;
+}
+
+.i-photo {
+    /*background-size: cover;*/
+    background-position-x: 344px;
+    background-position-y: 342px;
+}
+
+.i-photocamera {
+    /*background-size: cover;*/
+    background-position-x: 224px;
+    background-position-y: 342px;
+}
+
+.i-videocamera {
+    /*background-size: cover;*/
+    background-position-x: 105px;
+    background-position-y: 342px;
+}
+
+.i-webcam {
+    /*background-size: cover;*/
+    background-position-x: 461px;
+    background-position-y: 222px;
+}
+
+.i-microphone {
+    /*background-size: cover;*/
+    background-position-x: 343px;
+    background-position-y: 222px;
+}
+
+.i-trashcan {
+    /*background-size: cover;*/
+    background-position-x: 224px;
+    background-position-y: 222px;
+}
+
+.i-find {
+    /*background-size: cover;*/
+    background-position-x: 105px;
+    background-position-y: 222px;
+}
+
+.i-location {
+    /*background-size: cover;*/
+    background-position-x: 463px;
+    background-position-y: 104px;
+}
+
+.i-setting {
+    /*background-size: cover;*/
+    background-position-x: 344px;
+    background-position-y: 104px;
+}
+
+.i-speaker {
+    /*background-size: cover;*/
+    background-position-x: 224px;
+    background-position-y: 104px;
+}
+
+.i-note {
+    /*background-size: cover;*/
+    background-position-x: 105px;
+    background-position-y: 104px;
+}
