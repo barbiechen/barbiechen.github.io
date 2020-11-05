@@ -88,6 +88,9 @@
     margin-left: 16px;
 }
 .bottom_block {
+    top: 448px;
+    left: 3px;
+    position: absolute;
     background-image: url(../img/bottom_block.jpg);
     background-size: 340px;
     width: 340px;
