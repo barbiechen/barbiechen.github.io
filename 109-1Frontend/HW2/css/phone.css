@@ -1,5 +1,5 @@
 .phone_frame {
-    position: fixed;
+    /* position: absolute; */
     width: 402px;
     height: 675px;
     border-radius: 11%;
@@ -8,7 +8,9 @@
 }
 
 .phone_microphone {
-    position: fixed;
+    left: 2px;
+    top: 77px;
+    position: absolute;
     width: 93px;
     height: 10px;
     border-radius: 22%;
@@ -19,7 +21,9 @@
 }
 
 .phone_botton {
-    position: fixed;
+    top: 671px;
+    left: 9px;
+    position: absolute;
     width: 50px;
     height: 50px;
     border-radius: 50%;
@@ -29,8 +33,11 @@
     background-color: rgb(255, 255, 255);
 }
 
+
 .wallpaper {
-    position: fixed;
+    position: absolute;
+    left: 9px;
+    top: 115px;
     /* max-width: 248.4px; */
     background-size: 364px;
     width: 350px;
@@ -43,7 +50,9 @@
 }
 
 .app_row1 {
-    position: fixed;
+    /* left: 37px; */
+    /* top: 161px; */
+    /* position: absolute; */
     display: inline-block;
     /* max-width: 45px; */
     background-size: 60px;
@@ -55,7 +64,7 @@
     margin-left: 19px;
 }
 .app_row2 {
-    position: fixed;
+    position: absolute;
     display: inline-block;
     /* max-width: 45px; */
     background-size: 60px;
@@ -67,19 +76,18 @@
     margin-left: 19px;
 }
 .app_row3 {
-    position: fixed;
+    position: absolute;
     display: inline-block;
     /* max-width: 45px; */
-    background-size: 62px;
-    width: 62px;
-    height: 62px;
+    background-size: 68px;
+    width: 68px;
+    height: 68px;
     border-radius: 24%;
     margin-top: 13px;
     /* margin-bottom: 50px; */
     margin-left: 16px;
 }
 .bottom_block {
-    position: fixed;
     background-image: url(../img/bottom_block.jpg);
     background-size: 340px;
     width: 340px;
@@ -88,63 +96,99 @@
     margin-top: 0px;
     margin-left: 4px;
 }
-.facebook
-{
+.facebook {
+    left: 0px;
+    top: 0px;
+    position: absolute;
     background-image: url(../img/facebook.png);
 }
 
-.line
-{
+.line {
+    left: 83px;
+    top: 0px;
+    position: absolute;
     background-image: url(../img/line.png);
 }
 
-.ig
-{
+.ig {
+    left: 166px;
+    top: 0;
+    position: absolute;
     background-image: url(../img/ig.jpg);
 }
 
-.messenger
-{
+.messenger {
+    left: 252px;
+    top: 0px;
+    position: absolute;
     background-image: url(../img/messenger.png);
 }
 
-.dcard
-{
+.dcard {
     background-image: url(../img/dcard.png);
+    left: 0px;
+    top: 107px;
+    position: absolute;
 }
 
-.youtube
-{
-    background-image: url(../img/youtube.png);
+.app_row2 {
+    position: absolute;
+    display: inline-block;
+    /* max-width: 45px; */
+    background-size: 60px;
+    width: 60px;
+    height: 60px;
+    border-radius: 24%;
+    margin-top: 8px;
+    /* margin-bottom: 50px; */
+    margin-left: 19px;
 }
 
-.netflix
-{
+.netflix {
+    left: 166px;
+    top: 107px;
+    position: absolute;
     background-image: url(../img/netflix.png);
 }
 
-.googlemap
-{
+.googlemap {
+    left: 252px;
+    top: 107px;
+    position: absolute;
     background-image: url(../img/googlemap.png);
 }
 
-.phone
-{
+.phone {
+    left: 4px;
+    top: 441px;
+    position: absolute;
     background-image: url(../img/phone.png);
 }
 
-.bus
-{
+.bus {
+    background-size: 60px;
+    width: 60px;
+    height: 60px;
+    left: 86px;
+    top: 445px;
+    position: absolute;
     background-image: url(../img/bus.png);
 }
 
-.spotify
-{
+.spotify {
+    left: 165px;
+    top: 445px;
+    background-size: 60px;
+    width: 60px;
+    height: 60px;
+    position: absolute;
     background-image: url(../img/spotify.jpg);
 }
 
-.safari
-{
+.safari {
+    left: 241px;
+    top: 441px;
+    position: absolute;
     background-image: url(../img/safari.png);
 }
 
