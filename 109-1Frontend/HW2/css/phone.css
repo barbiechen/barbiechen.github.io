@@ -153,8 +153,8 @@
 }
 
 .phone {
-    left: 4px;
-    top: 441px;
+    left: 2px;
+    top: -4px;
     position: absolute;
     background-image: url(../img/phone.png);
 }
@@ -164,14 +164,14 @@
     width: 60px;
     height: 60px;
     left: 86px;
-    top: 445px;
+    top: 0px;
     position: absolute;
     background-image: url(../img/bus.png);
 }
 
 .spotify {
     left: 165px;
-    top: 445px;
+    top: 0px;
     background-size: 60px;
     width: 60px;
     height: 60px;
@@ -181,7 +181,7 @@
 
 .safari {
     left: 241px;
-    top: 441px;
+    top: -4px;
     position: absolute;
     background-image: url(../img/safari.png);
 }
