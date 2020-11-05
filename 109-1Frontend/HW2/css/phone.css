@@ -131,17 +131,11 @@
     position: absolute;
 }
 
-.app_row2 {
+.youtube {
+    background-image: url(../img/youtube.png);
+    left: 83px;
+    top: 107px;
     position: absolute;
-    display: inline-block;
-    /* max-width: 45px; */
-    background-size: 60px;
-    width: 60px;
-    height: 60px;
-    border-radius: 24%;
-    margin-top: 8px;
-    /* margin-bottom: 50px; */
-    margin-left: 19px;
 }
 
 .netflix {
