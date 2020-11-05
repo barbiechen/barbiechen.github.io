@@ -1,5 +1,5 @@
 .phone_frame {
-    position: relative;
+    position: fixed;
     width: 402px;
     height: 675px;
     border-radius: 11%;
@@ -8,7 +8,7 @@
 }
 
 .phone_microphone {
-    position: relative;
+    position: fixed;
     width: 93px;
     height: 10px;
     border-radius: 22%;
@@ -19,7 +19,7 @@
 }
 
 .phone_botton {
-    position: relative;
+    position: fixed;
     width: 50px;
     height: 50px;
     border-radius: 50%;
@@ -30,7 +30,7 @@
 }
 
 .wallpaper {
-    position: relative;
+    position: fixed;
     /* max-width: 248.4px; */
     background-size: 364px;
     width: 350px;
@@ -43,7 +43,7 @@
 }
 
 .app_row1 {
-    position: relative;
+    position: fixed;
     display: inline-block;
     /* max-width: 45px; */
     background-size: 60px;
@@ -55,7 +55,7 @@
     margin-left: 19px;
 }
 .app_row2 {
-    position: relative;
+    position: fixed;
     display: inline-block;
     /* max-width: 45px; */
     background-size: 60px;
@@ -67,7 +67,7 @@
     margin-left: 19px;
 }
 .app_row3 {
-    position: relative;
+    position: fixed;
     display: inline-block;
     /* max-width: 45px; */
     background-size: 62px;
@@ -79,7 +79,7 @@
     margin-left: 16px;
 }
 .bottom_block {
-    position: relative;
+    position: fixed;
     background-image: url(../img/bottom_block.jpg);
     background-size: 340px;
     width: 340px;
