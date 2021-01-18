@@ -1,0 +1,23 @@
+
+
+
+.choice {
+    border: 1px solid rgb(139, 139, 139);
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.choice:hover{
+    background-color: rgb(186, 193, 199);
+}
+.result {
+        background-color: rgb(190, 253, 255);
+}
+
+.question{
+    background-color: rgb(166, 220, 245);
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
