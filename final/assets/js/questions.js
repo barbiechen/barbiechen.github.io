@@ -28,7 +28,7 @@ const quizQuestions = [
         correctAnswer: "Stephen Curry"
     },
     {
-        question: "承上題，投進三分球數量為少顆?",
+        question: "承上題，投進三分球數量為多少顆?",
         choices: ["289", "305", "402", "405"],
         correctAnswer: "402"
     },
