@@ -1,0 +1,80 @@
+../images/pic_dolls/Winne_the_pooh/img107.jpg 5,9,107,163,0 161,12,254,177,2 82,61,188,192,3
+../images/pic_dolls/Winne_the_pooh/img114.jpg 574,215,883,622,3 10,155,350,635,1
+../images/pic_dolls/Winne_the_pooh/img136.jpg 1,212,496,929,1 378,384,816,1030,0 732,260,1145,850,2
+../images/pic_dolls/Winne_the_pooh/img160.jpg 19,152,291,514,3 249,72,523,519,2
+../images/pic_dolls/Winne_the_pooh/img175.jpg 115,68,688,949,2
+../images/pic_dolls/Winne_the_pooh/img179.jpg 55,25,228,359,2
+../images/pic_dolls/Winne_the_pooh/img19.jpg 235,1832,2765,3358,0 1202,1000,2690,1846,0 495,1,2473,1836,0
+../images/pic_dolls/Winne_the_pooh/img191.jpg 115,65,685,948,2
+../images/pic_dolls/Winne_the_pooh/img193.jpg 266,72,689,654,2
+../images/pic_dolls/Winne_the_pooh/img205.jpg 182,256,356,484,0 1,170,189,465,2 342,116,457,376,1 377,268,610,491,3
+../images/pic_dolls/Winne_the_pooh/img210.jpg 194,43,644,1022,2
+../images/pic_dolls/Winne_the_pooh/img211.jpg 36,33,270,277,2
+../images/pic_dolls/Winne_the_pooh/img240.jpg 187,27,445,314,2
+../images/pic_dolls/Winne_the_pooh/img241.jpg 172,86,304,251,2
+../images/pic_dolls/Winne_the_pooh/img262.jpg 42,22,203,288,2
+../images/pic_dolls/Winne_the_pooh/img267.jpg 1,145,563,481,2
+../images/pic_dolls/Winne_the_pooh/img276.jpg 634,38,779,266,10 646,306,777,529,0 532,272,669,526,1 312,280,442,521,8 166,295,335,528,5 6,294,198,530,4 434,564,546,767,7 326,568,438,768,7 430,280,540,520,11
+../images/pic_dolls/Winne_the_pooh/img290.jpg 220,8,422,289,0 104,1,274,291,1 253,163,347,292,2 186,282,402,375,3 1,82,144,278,3
+../images/pic_dolls/Winne_the_pooh/img293.jpg 11,14,381,342,2
+../images/pic_dolls/Winne_the_pooh/img298.jpg 358,361,722,738,2 75,346,368,742,0
+../images/pic_dolls/Winne_the_pooh/img308.jpg 89,138,930,839,3
+../images/pic_dolls/Winne_the_pooh/img310.jpg 69,239,932,758,3
+../images/pic_dolls/Winne_the_pooh/img322.jpg 9,3,211,219,3
+../images/pic_dolls/Winne_the_pooh/img368.jpg 60,301,421,663,3 334,206,552,610,1 171,116,406,472,0 417,132,750,660,5 1,19,216,367,4
+../images/pic_dolls/Winne_the_pooh/img369.jpg 8,14,130,184,1 134,54,230,182,3
+../images/pic_dolls/Winne_the_pooh/img375.jpg 177,158,439,467,3 15,149,260,536,1 375,192,630,534,0 352,97,512,338,2
+../images/pic_dolls/Winne_the_pooh/img38.jpg 7,24,252,158,0
+../images/pic_dolls/Winne_the_pooh/img383.jpg 266,60,313,116,0 271,131,322,188,0 274,396,311,439,0 267,353,312,402,0 261,314,319,362,0 274,207,315,271,0 271,272,328,327,0 220,53,272,109,6 205,352,284,429,6 220,275,278,328,6 201,198,281,256,6 201,132,286,198,6 26,11,91,95,8 25,107,93,178,8 1,208,80,283,8 1,292,59,354,8 43,269,111,341,8 33,361,106,426,8 7,377,59,457,8
+../images/pic_dolls/Winne_the_pooh/img393.jpg 74,106,1348,1847,3
+../images/pic_dolls/Winne_the_pooh/img424.jpg 364,151,810,1004,5 1,101,385,1017,4
+../images/pic_dolls/Winne_the_pooh/img436.jpg 87,98,298,540,5 398,121,638,529,4
+../images/pic_dolls/Winne_the_pooh/img437.jpg 71,39,479,795,4
+../images/pic_dolls/Winne_the_pooh/img442.jpg 192,23,437,439,4 66,34,248,456,5
+../images/pic_dolls/Winne_the_pooh/img451.jpg 4,121,638,488,4
+../images/pic_dolls/Winne_the_pooh/img452.jpg 166,144,470,790,4 422,137,767,799,5
+../images/pic_dolls/Winne_the_pooh/img456.jpg 53,23,179,292,4
+../images/pic_dolls/Winne_the_pooh/img46.jpg 565,236,935,794,0 99,221,551,799,0
+../images/pic_dolls/Winne_the_pooh/img476.jpg 275,789,394,1024,0 395,808,509,1015,0 504,812,602,1016,0 15,936,206,1095,1 782,780,895,978,11 1,783,77,997,11 597,248,747,603,8 101,255,253,603,11 242,223,437,611,4 436,253,615,614,5 679,1105,798,1200,0 536,1126,651,1200,2 785,1118,898,1200,2
+../images/pic_dolls/Winne_the_pooh/img484.jpg 87,3,265,318,5 204,52,288,315,5
+../images/pic_dolls/Winne_the_pooh/img494.jpg 25,188,186,344,6 270,154,355,312,0 338,139,432,311,1 411,158,504,316,2 494,166,602,327,3 444,313,546,463,11 391,313,455,456,8 309,305,393,449,5 230,312,323,459,4 177,333,253,471,7 100,349,185,485,7
+../images/pic_dolls/Winne_the_pooh/img5.jpg 118,49,713,767,0
+../images/pic_dolls/Winne_the_pooh/img500.jpg 3,7,427,811,5 374,46,789,818,4
+../images/pic_dolls/Winne_the_pooh/img52.jpg 29,1,853,1309,0
+../images/pic_dolls/Winne_the_pooh/img528.jpg 156,122,230,283,11 216,146,296,278,8 270,93,409,327,11 369,111,516,330,8 271,355,387,530,8 373,340,474,528,11 17,260,185,514,5 161,269,301,506,4
+../images/pic_dolls/Winne_the_pooh/img532.jpg 226,89,751,891,8
+../images/pic_dolls/Winne_the_pooh/img536.jpg 57,13,690,956,8
+../images/pic_dolls/Winne_the_pooh/img54.jpg 599,282,887,491,6 185,38,358,269,0 378,281,518,504,7 508,295,656,514,7 252,246,408,511,8 308,6,523,232,9 408,143,692,326,10
+../images/pic_dolls/Winne_the_pooh/img541.jpg 185,72,521,623,5
+../images/pic_dolls/Winne_the_pooh/img548.jpg 130,77,654,747,8
+../images/pic_dolls/Winne_the_pooh/img567.jpg 24,34,398,289,8
+../images/pic_dolls/Winne_the_pooh/img570.jpg 94,138,474,633,11 348,178,718,648,8
+../images/pic_dolls/Winne_the_pooh/img575.jpg 66,16,530,532,5
+../images/pic_dolls/Winne_the_pooh/img58.jpg 273,188,428,415,2 162,193,301,434,0 31,166,183,439,1 135,118,172,175,1 181,75,222,166,0 327,68,373,167,2
+../images/pic_dolls/Winne_the_pooh/img593.jpg 120,1,770,880,8
+../images/pic_dolls/Winne_the_pooh/img60.jpg 458,254,772,552,0 62,1,509,566,0
+../images/pic_dolls/Winne_the_pooh/img605.jpg 129,149,728,891,8
+../images/pic_dolls/Winne_the_pooh/img606.jpg 44,297,750,936,8
+../images/pic_dolls/Winne_the_pooh/img607.jpg 477,242,651,444,8 504,24,635,259,4 242,23,404,265,4 335,16,511,253,4 193,223,379,445,5 376,245,514,420,5
+../images/pic_dolls/Winne_the_pooh/img629.jpg 198,41,492,675,11
+../images/pic_dolls/Winne_the_pooh/img640.jpg 93,7,318,383,11
+../images/pic_dolls/Winne_the_pooh/img650.jpg 51,26,164,210,7
+../images/pic_dolls/Winne_the_pooh/img67.jpg 60,11,176,268,1
+../images/pic_dolls/Winne_the_pooh/img688.jpg 363,149,796,654,6
+../images/pic_dolls/Winne_the_pooh/img7.jpg 3,106,500,410,0
+../images/pic_dolls/Winne_the_pooh/img707.jpg 26,260,957,790,6
+../images/pic_dolls/Winne_the_pooh/img713.jpg 132,104,348,403,6 155,593,571,938,6
+../images/pic_dolls/Winne_the_pooh/img726.jpg 321,34,728,476,10
+../images/pic_dolls/Winne_the_pooh/img732.jpg 170,51,259,129,10
+../images/pic_dolls/Winne_the_pooh/img738.jpg 110,4,487,298,10
+../images/pic_dolls/Winne_the_pooh/img739.jpg 193,57,476,315,10
+../images/pic_dolls/Winne_the_pooh/img740.jpg 136,84,322,275,10
+../images/pic_dolls/Winne_the_pooh/img758.jpg 538,336,932,895,7 92,326,490,884,7
+../images/pic_dolls/Winne_the_pooh/img76.jpg 1,1,513,691,0 367,596,856,1394,2 946,72,1496,771,1 687,662,1499,1376,3
+../images/pic_dolls/Winne_the_pooh/img765.jpg 171,1,460,372,7 7,130,188,367,7 6,373,239,729,7 233,377,489,737,7
+../images/pic_dolls/Winne_the_pooh/img770.jpg 2455,1867,3024,2688,7 1914,1888,2537,2788,7 1451,1888,2049,2846,7 916,1852,1532,2852,7 509,1890,945,2425,7 168,1978,514,2382,7 228,1132,636,1694,7 634,1119,964,1682,7 1051,1144,1284,1369,7 1405,1150,1657,1359,7 2011,1296,2370,1786,7 2212,894,2543,1425,7 2272,269,2564,500,7 1895,234,2157,469,7 1299,177,1789,823,7 862,186,1353,802,7 564,207,805,550,7 253,255,587,682,7
+../images/pic_dolls/Winne_the_pooh/img781.jpg 106,36,306,363,7
+../images/pic_dolls/Winne_the_pooh/img785.jpg 476,216,785,593,7
+../images/pic_dolls/Winne_the_pooh/img787.jpg 413,277,896,862,7 178,279,485,829,7 791,314,1024,800,7
+../images/pic_dolls/Winne_the_pooh/img96.jpg 60,204,271,536,0 358,84,586,544,1
+../images/pic_dolls/Winne_the_pooh/img97.jpg 470,245,855,1044,1 182,256,589,1001,0
